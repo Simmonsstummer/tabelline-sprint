@@ -13,14 +13,6 @@ Una webapp veloce e colorata per imparare le tabelline divertendosi. Quante ne i
 - 📱 Mobile-first, installabile sulla home come PWA (funziona anche offline)
 - 🎨 Design colorato e tattile, pensato per bambini
 
-## 🚀 Come pubblicare su GitHub Pages
-
-1. Crea un nuovo repository su GitHub
-2. Carica tutti i file di questa cartella nella root del repo
-3. Vai in **Settings → Pages**
-4. In **Source** scegli `Deploy from a branch` → branch `main` → folder `/ (root)` → **Save**
-5. Dopo 1-2 minuti l'app sarà online su `https://<tuo-username>.github.io/<nome-repo>/`
-
 ## 📁 Struttura dei file
 
 ```
@@ -57,4 +49,4 @@ Tutto è in `index.html`. Cose facili da cambiare:
 
 ## 📜 Licenza
 
-Fai quello che vuoi. Ad uso personale e didattico.
+Rilasciato sotto licenza [MIT](LICENSE) — libero per uso personale, didattico e commerciale.
