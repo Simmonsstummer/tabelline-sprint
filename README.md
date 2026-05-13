@@ -2,6 +2,8 @@
 
 Una webapp veloce e colorata per imparare le tabelline divertendosi. Quante ne indovini in 60 secondi?
 
+👉 **[Gioca ora](https://simmonsstummer.github.io/tabelline-sprint/)**
+
 ## 🎯 Caratteristiche
 
 - ⏱️ Sfida da 60 secondi
