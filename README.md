@@ -51,4 +51,4 @@ Tutto è in `index.html`. Cose facili da cambiare:
 
 ## 📜 Licenza
 
-Rilasciato sotto licenza [MIT](LICENSE) — libero per uso personale, didattico e commerciale.
+Rilasciato sotto licenza [Creative Commons BY-NC 4.0](LICENSE) — libero per uso personale, didattico e per condivisione/modifica, **purché non a scopo commerciale** e con attribuzione. Per usi commerciali contattare l'autore.
