@@ -2,7 +2,7 @@
 // Strategia: cache-first per gli asset locali, network-first per il resto.
 // Cambia CACHE_VERSION quando aggiorni l'app per forzare il refresh della cache.
 
-const CACHE_VERSION = 'v1';
+const CACHE_VERSION = 'v2';
 const CACHE_NAME = `tabelline-sprint-${CACHE_VERSION}`;
 
 const CORE_ASSETS = [
